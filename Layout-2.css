@@ -1,0 +1,96 @@
+/* Header CSS */
+.icon_title{
+    padding:2%;
+    margin-left: 5%;
+}
+.icon_logo{
+    background-color: #4e7685;
+    box-shadow: -3px -3px #183b51;
+    height: 2%;
+    padding: 4%;
+}
+.icon_txt p{
+    margin-top: 2%;
+}
+.icon_txt b{
+    color: #d06444;
+    font-weight: 950;
+}
+.section_img{
+    position: absolute;
+    margin-top: 8%;
+}
+.section_img img{
+    width: 106%;
+}
+.header_txt h2{
+    position: absolute;
+    width: 40%;
+    text-align: center;
+    right: 0;
+    padding: 10% 0 15% 0;
+    background-color: #093c3a9b;
+    border-radius: 0 0 100px 100px;
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    right:10%;
+}
+/* Session start */
+/* Services session */
+.services{
+    margin-top: 80%;
+    display: flexbox;
+}
+.title_service h4{
+    color: #2b564c;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    padding: 3%;
+}
+.num h1{
+    font-weight: bold;
+    color: #d06444;
+    align-content: center;
+    padding-top: 5%;
+}
+.txt_service h5{
+    color: #2b564c;
+    font-size: large;
+}
+.all_service{
+    padding: 4%;
+}
+/* About & contact session */
+.snd_section{
+    margin-top: 74.5%;
+}
+.about{
+    background-color: #2b564c;
+    padding: 5%;
+    color: white;
+}
+.contact{
+    background-color: #d06444;
+    padding: 5%;
+    color: white;
+}
+.about h2,.contact h2{
+    text-align: center;
+    font-weight: bold;
+}
+.website{
+    background-color: #d4e4e4;
+    padding: 5%;
+    text-align: center;
+}
+.website a{
+    text-decoration: none;
+    color: #a6bfc3;
+}
+/* Footer CSS */
+footer{
+    padding: 0.5%;
+    background-color: #d06444;
+}
